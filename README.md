@@ -4,8 +4,8 @@
 
 A full-stack tool that takes a job description and a batch of resumes (PDF / DOCX / TXT) and produces a transparent, ranked shortlist — showing the exact skills each candidate hits, partially hits, and misses.
 
-<!-- After deploying, add your live link here: -->
-<!-- **🔗 Live demo:** https://your-app-url.com -->
+**🔗 Live demo:** https://resume-analyzer-1-xifs.onrender.com
+
 
 ![Frontend screenshot](docs/screenshot.png)
 <!-- Add a screenshot at docs/screenshot.png once the app is running -->
